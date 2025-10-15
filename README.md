@@ -2,8 +2,11 @@
 
 <h2>Homelab Projects:</h2>
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+- <b>Networking</b>
+  - [Adguard Setup](https://github.com/Nicolemp4/Adguard-Setup)
+
+- <b>AI & LLMs</b>
+  - [The Misa Project]()
 
 <!--
 <h2>Certifications:</h2>

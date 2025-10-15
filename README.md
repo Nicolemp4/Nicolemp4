@@ -1,11 +1,11 @@
-<h1>Hello, I'm Nicole!</h1>
+# Hello, I'm Nicole!
 
-<h2>Homelab Projects:</h2>
+## Homelab Projects:
 
-- <b>AI & LLMs</b>
+- **AI & LLMs**
   - [The Misa Project](https://github.com/Nicolemp4/The-Misa-Project/tree/main)
 
-- <b>Networking</b>
+- **Networking**
   - [Adguard Setup](https://github.com/Nicolemp4/Adguard-Setup)
 
 
@@ -13,7 +13,7 @@
 <!--
 <h2>Certifications:</h2>
 -->
-<h2>Socials:</h2>
+## Socials:
 
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 

@@ -2,11 +2,13 @@
 
 <h2>Homelab Projects:</h2>
 
+- <b>AI & LLMs</b>
+  - [The Misa Project](https://github.com/Nicolemp4/The-Misa-Project/tree/main)
+
 - <b>Networking</b>
   - [Adguard Setup](https://github.com/Nicolemp4/Adguard-Setup)
 
-- <b>AI & LLMs</b>
-  - [The Misa Project]()
+
 
 <!--
 <h2>Certifications:</h2>
